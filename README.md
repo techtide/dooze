@@ -1,2 +1,2 @@
 # dooze
-A demo for AcornHack AI (2017).
+A demo for the 2017 AH AI.
